@@ -13,7 +13,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Prerrequisitos:** Ninguno
 * **Herramientas necesarias:** Navegador web (Chrome, Firefox, Edge o Safari)
 * **Editor online principal:** CodePen
-* **Repositorio de código fuente:** [https://github.com/NatValverde15/Curso-de-Fundamentos-de-Desarrollo-Web.git](https://github.com/NatValverde15/Curso-de-Fundamentos-de-Desarrollo-Web.git)
+* **Repositorio de código fuente:** [https://github.com/Master-Squad/webdev-course-master-squad.git](https://github.com/Master-Squad/webdev-course-master-squad.git)
 
 ---
 
@@ -74,7 +74,7 @@ https://codepen.io/[lesson2]
 
 ---
 
-## Lección 3: Elementos HTML Comunes (8 minutos)
+## Lección 3: Elementos HTML Comunes (12:44 minutos)
 
 ### Descripción
 
@@ -102,7 +102,7 @@ Agrega listas, imágenes y enlaces para enriquecer tu página web.
 
 ---
 
-## Lección 4: Introducción a CSS (12 minutos)
+## Lección 4: Introducción a CSS (6:35 minutos)
 
 ### Descripción
 
@@ -129,7 +129,7 @@ https://codepen.io/[lesson4]
 
 ---
 
-## Lección 5: Diseño Básico con CSS (10 minutos)
+## Lección 5: Diseño Básico con CSS (12:24 minutos)
 
 ### Descripción
 
@@ -185,7 +185,7 @@ https://youtube.com/[video6]
 
 ---
 
-## Lección 7: Errores Comunes y Próximos Pasos (5 minutos)
+## Lección 7: Errores Comunes y Próximos Pasos (2:08 minutos)
 
 ### Descripción
 
@@ -214,7 +214,7 @@ Aprende buenas prácticas y evita errores frecuentes al programar.
 ## Código Fuente Completo
 
 Repositorio GitHub:
-https://github.com/[usuario]/webdev-course-smartstay
+[https://github.com/Master-Squad/webdev-course-master-squad.git](https://github.com/Master-Squad/webdev-course-master-squad.git)
 
 ## Actividades Prácticas
 
