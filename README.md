@@ -175,7 +175,7 @@ https://youtube.com/[video6]
 
 ### Proyecto
 
-https://replit.com/[lesson6]
+[Click aquí para ver el proyecto](https://codepen.io/NatValverde/pen/emggvWx)👈Guarda y comparte
 
 ### Consejos clave
 
@@ -225,7 +225,7 @@ https://github.com/[usuario]/webdev-course-smartstay
 | 3       | Imágenes y Enlaces  | CodePen     |
 | 4       | Aplicando CSS       | CodePen     |
 | 5       | Mejorando el Diseño | CodePen     |
-| 6       | Página de Perfil    | Replit      |
+| 6       | Página de Perfil    | CodePen     |
 | 7       | Repaso Final        | CodePen     |
 
 ## Cuestionario Final
