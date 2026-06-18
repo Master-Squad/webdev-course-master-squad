@@ -7,19 +7,19 @@ Cuando una etiqueta HTML no se cierra correctamente, el navegador puede interpre
 ## ❌ Código incorrecto
 
 ```html
-<h1>Natalia Valverde
+<h1>Juana Del Valle
 
 <p class="descripcion">
-Estudiante de Ingeniería de Software
+Estudiante de Cocina
 ```
 
 ## ✅ Código correcto
 
 ```html
-<h1>Natalia Valverde</h1>
+<h1>Juana Del Valle</h1>
 
 <p class="descripcion">
-Estudiante de Ingeniería de Software
+Estudiante de Cocina
 </p>
 ```
 
@@ -37,7 +37,7 @@ HTML y CSS deben utilizar exactamente el mismo nombre de clase.
 
 ```html
 <p class="descripccion">
-Estudiante de Ingeniería de Software
+Estudiante de Cocina
 </p>
 ```
 
@@ -51,7 +51,7 @@ Estudiante de Ingeniería de Software
 
 ```html
 <p class="descripcion">
-Estudiante de Ingeniería de Software
+Estudiante de Cocina
 </p>
 ```
 
@@ -116,8 +116,8 @@ Ejemplo:
 
 ```html
 <div class="perfil">
-    <h1>Natalia Valverde</h1>
-    <p>Estudiante de Ingeniería de Software</p>
+    <h1>Juana Del Valle</h1>
+    <p>Estudiante de Cocina</p>
 </div>
 ```
 
