@@ -64,7 +64,7 @@ https://youtube.com/[video2]
 
 ### Actividad práctica
 
-https://codepen.io/[lesson2]
+[Click aquí para ver el proyecto](https://codepen.io/Vanessa-Choy/pen/NPddeZL)👈Guarda y comparte
 
 ### Consejos clave
 
