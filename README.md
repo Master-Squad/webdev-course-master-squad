@@ -13,7 +13,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 * **Prerrequisitos:** Ninguno
 * **Herramientas necesarias:** Navegador web (Chrome, Firefox, Edge o Safari)
 * **Editor online principal:** CodePen
-* **Repositorio de código fuente:** [](https://github.com/NatValverde15/Curso-de-Fundamentos-de-Desarrollo-Web.git)
+* **Repositorio de código fuente:** [https://github.com/NatValverde15/Curso-de-Fundamentos-de-Desarrollo-Web.git](https://github.com/NatValverde15/Curso-de-Fundamentos-de-Desarrollo-Web.git)
 
 ---
 
