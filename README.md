@@ -120,7 +120,7 @@ Aprende a cambiar colores, fuentes y apariencia de una página web.
 
 ### Actividad práctica
 
-https://codepen.io/[lesson4]
+[Click aquí para ver el proyecto](https://codepen.io/yqbhbtod-the-animator/pen/gbgggKa)👈Guarda y comparte
 
 ### Consejos clave
 
