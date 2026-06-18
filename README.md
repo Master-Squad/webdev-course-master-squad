@@ -19,7 +19,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 # Secuencia de Lecciones
 
-## Lección 1: ¿Qué es el Desarrollo Web? (5 minutos)
+## Lección 1: ¿Qué es el Desarrollo Web? (4:13 minutos)
 
 ### Descripción
 
@@ -33,7 +33,7 @@ Aprende qué es una página web y cómo HTML y CSS trabajan juntos para construi
 
 ### Video
 
-https://youtube.com/[video1]
+[Haz click aquí para ver la Lección 1](https://youtu.be/0hZR9FJSGFY)👈
 
 ### Actividad práctica
 
@@ -157,7 +157,7 @@ Aprende a centrar contenido, agregar bordes y mejorar la presentación visual.
 
 ---
 
-## Lección 6: Proyecto Final – Página de Perfil Personal (10 minutos)
+## Lección 6: Proyecto Final – Página de Perfil Personal (8:33 minutos)
 
 ### Descripción
 
@@ -171,7 +171,7 @@ Combina HTML y CSS para crear una página web personal completa.
 
 ### Video
 
-https://youtube.com/[video6]
+[Haz click aquí para ver la Lección 6](https://youtu.be/287WaHIvxHs)👈
 
 ### Proyecto
 
