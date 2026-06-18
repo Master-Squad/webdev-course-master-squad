@@ -92,7 +92,7 @@ https://youtube.com/[video3]
 
 ### Actividad práctica
 
-https://codepen.io/[lesson3]
+https://codepen.io/braden-g-the-vuer/pen/zxNNNpa
 
 ### Consejos clave
 
@@ -255,7 +255,7 @@ NRC: 12263
 | Código     | Apellidos          | Nombres         |
 | ---------- | ------------------ | --------------- |
 | U20231A816 | Valverde Portuguez | Natalia Ximena  |
-|            |                    |                 |
+| U202415618 | Garcia Cerpa       | Braden Raid     |
 |            |                    |                 |
 |            |                    |                 |
 |            |                    |                 |
