@@ -147,7 +147,7 @@ https://youtube.com/[video5]
 
 ### Actividad práctica
 
-https://codepen.io/[lesson5]
+https://codepen.io/Oscar-Vara-velasquez/pen/myRRROZ 
 
 ### Consejos clave
 
@@ -253,7 +253,7 @@ NRC: 12263
 | ---------- | ------------------ | --------------- |
 | U20231A816 | Valverde Portuguez | Natalia Ximena  |
 | U202415618 | Garcia Cerpa       | Braden Raid     |
-|            |                    |                 |
+| u202411622 | Vara Velasquez     | Oscar Fernando  |
 |            |                    |                 |
 |            |                    |                 |
 
