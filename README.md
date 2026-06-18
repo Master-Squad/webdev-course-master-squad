@@ -37,7 +37,7 @@ Aprende qué es una página web y cómo HTML y CSS trabajan juntos para construi
 
 ### Actividad práctica
 
-https://codepen.io/[lesson1]
+[Click aquí para ver el proyecto](https://codepen.io/Vanessa-Choy/pen/VYPPgXQ)👈Guarda y comparte
 
 ### Consejos clave
 
