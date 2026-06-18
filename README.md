@@ -88,11 +88,11 @@ Agrega listas, imágenes y enlaces para enriquecer tu página web.
 
 ### Video
 
-https://youtube.com/[video3]
+[Haz click aquí para ver la Lección 3](https://youtu.be/hASkIcAW17s)👈
 
 ### Actividad práctica
 
-https://codepen.io/braden-g-the-vuer/pen/zxNNNpa
+[Click aquí para ver el proyecto](https://codepen.io/braden-g-the-vuer/pen/zxNNNpa)👈Guarda y comparte
 
 ### Consejos clave
 
@@ -116,7 +116,7 @@ Aprende a cambiar colores, fuentes y apariencia de una página web.
 
 ### Video
 
-https://youtube.com/[video4]
+[Haz click aquí para ver la Lección 4](https://youtu.be/nwD0cCbK1ko)👈
 
 ### Actividad práctica
 
@@ -143,11 +143,11 @@ Aprende a centrar contenido, agregar bordes y mejorar la presentación visual.
 
 ### Video
 
-https://youtube.com/[video5]
+[Haz click aquí para ver la Lección 5](https://youtu.be/wWIpC9AcqC4)👈
 
 ### Actividad práctica
 
-https://codepen.io/Oscar-Vara-velasquez/pen/myRRROZ 
+[Click aquí para ver el proyecto](https://codepen.io/Oscar-Vara-velasquez/pen/myRRROZ )👈Guarda y comparte
 
 ### Consejos clave
 
@@ -199,7 +199,7 @@ Aprende buenas prácticas y evita errores frecuentes al programar.
 
 ### Video
 
-https://youtube.com/[video7]
+[Haz click aquí para ver la Lección 7](https://youtu.be/B7v5fGHfuU4)👈
 
 ### Consejos clave
 
@@ -226,7 +226,7 @@ https://github.com/[usuario]/webdev-course-smartstay
 | 4       | Aplicando CSS       | CodePen     |
 | 5       | Mejorando el Diseño | CodePen     |
 | 6       | Página de Perfil    | CodePen     |
-| 7       | Repaso Final        | CodePen     |
+| 7       | Repaso Final        |      -      |
 
 
 ---
@@ -243,7 +243,7 @@ Curso: Aplicaciones Web
 
 NRC: 12263
 
-**Nombre del equipo:** SmartStay
+**Nombre del equipo:** MasterSquad
 
 **Líder del equipo:** Natalia Ximena Valverde Portuguez
 
