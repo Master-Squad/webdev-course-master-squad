@@ -228,9 +228,6 @@ https://github.com/[usuario]/webdev-course-smartstay
 | 6       | Página de Perfil    | CodePen     |
 | 7       | Repaso Final        | CodePen     |
 
-## Cuestionario Final
-
-https://forms.gle/[quiz]
 
 ---
 
