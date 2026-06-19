@@ -254,7 +254,7 @@ NRC: 12263
 | U20231A816 | Valverde Portuguez | Natalia Ximena  |
 | U202415618 | Garcia Cerpa       | Braden Raid     |
 | u202411622 | Vara Velasquez     | Oscar Fernando  |
-|            |                    |                 |
+| u202411567 | Espino Rossi       | Victor Manuel   |
 |            |                    |                 |
 
 **Fecha de entrega:** 18 de Noviembre del 2026
