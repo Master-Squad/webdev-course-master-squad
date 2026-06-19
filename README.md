@@ -60,7 +60,7 @@ Aprende la estructura básica de una página HTML y crea tu primera página web.
 
 ### Video
 
-[Haz click aquí para ver la Lección 1](https://youtu.be/sX2-ccc2QjQ)👈
+[Haz click aquí para ver la Lección 2](https://youtu.be/sX2-ccc2QjQ)👈
 
 ### Actividad práctica
 
